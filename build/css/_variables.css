@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Jun 2022 07:55:34 GMT
+ * Generated on Sun, 12 Jun 2022 08:02:44 GMT
  */
 
 :root {
@@ -8,7 +8,8 @@
   --sd-global-white: #fff;
   --sd-global-small: 8px;
   --sd-global-medium: 32px;
-  --sd-global-button: 14px;
+  --sd-global-button: 20px;
   --sd-global-spacing-small: 8px;
   --sd-global-spacing-medium: 16px;
+  --sd-global-line-height: 24px;
 }
